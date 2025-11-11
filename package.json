@@ -1,0 +1,24 @@
+{
+  "name": "ts--intro",
+  "version": "1.0.0",
+  "description": "Denna uppgift är en introduktion till TypeScript och låter er utforska grunderna i typad JavaScript. Ni kommer att sätta upp ett TypeScript-projekt, konfigurera kompilatorn och öva på att skriva typad kod. Genom praktiska övningar får ni lära er hur TypeScript hjälper till att hitta fel innan koden körs och gör er kod mer stabil och skalbar. **Rekommenderas att göras i grupp**.",
+  "homepage": "https://github.com/alicekrln/ts--intro#readme",
+  "bugs": {
+    "url": "https://github.com/alicekrln/ts--intro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicekrln/ts--intro.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
